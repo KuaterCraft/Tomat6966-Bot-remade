@@ -23,7 +23,7 @@ module.exports = async (client) => {
       console.log(`     ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓`.bold.brightGreen)
       console.log(`     ┃ `.bold.brightGreen + " ".repeat(-1 + stringlength - ` ┃ `.length) + "┃".bold.brightGreen)
       console.log(`     ┃ `.bold.brightGreen + `Welcome to SERVICE HANDLER!`.bold.brightGreen + " ".repeat(-1 + stringlength - ` ┃ `.length - `Welcome to SERVICE HANDLER!`.length) + "┃".bold.brightGreen)
-      console.log(`     ┃ `.bold.brightGreen + `  /-/ By https://ferren.dcbot.ml.dcbot.ml /-/`.bold.brightGreen + " ".repeat(-1 + stringlength - ` ┃ `.length - `  /-/ By https://ferren.dcbot.ml.dcbot.ml /-/`.length) + "┃".bold.brightGreen)
+      console.log(`     ┃ `.bold.brightGreen + `  /-/ By https://ferren.dcbot.ml /-/`.bold.brightGreen + " ".repeat(-1 + stringlength - ` ┃ `.length - `  /-/ By https://ferren.dcbot.ml /-/`.length) + "┃".bold.brightGreen)
       console.log(`     ┃ `.bold.brightGreen + " ".repeat(-1 + stringlength - ` ┃ `.length) + "┃".bold.brightGreen)
       console.log(`     ┃ `.bold.brightGreen + `  /-/ Discord: KuaterCraft#0062 /-/`.bold.brightGreen + " ".repeat(-1 + stringlength - ` ┃ `.length - `  /-/ By Discord: KuaterCraft#0062 /-/`.length) + "   ┃".bold.brightGreen)
       console.log(`     ┃ `.bold.brightGreen + " ".repeat(-1 + stringlength - ` ┃ `.length) + "┃".bold.brightGreen)

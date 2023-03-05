@@ -27,7 +27,7 @@ module.exports = {
 				.setTimestamp()
 				.setThumbnail("https://cdn.discordapp.com/avatars/844535327892701205/df7b527a701d9a1ab6d73213576fe295.webp?size=1024")
 				.setTitle(client.la[ls].cmds.info.github?.title)
-				.setURL("https://ferren.dcbot.ml.dcbot.ml")
+				.setURL("https://ferren.dcbot.ml")
 				.setDescription(client.la[ls].cmds.info.github?.description)],
 components: allbuttons
 			}).catch(error => console.log(error));

@@ -53,7 +53,7 @@ module.exports = {
 }
 /**
  * @INFO
- * Bot Coded by KuaterCraft#0062 | https://ferren.dcbot.ml.dcbot.mle
+ * Bot Coded by KuaterCraft#0062 | https://ferren.dcbot.mle
  * @INFO
  * Work for Ferren | KuaterCraft | https://discord.gg/4TeeFAdnuD
  /**/

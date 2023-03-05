@@ -11,7 +11,8 @@
  * 8  LOAD_the_BOT_Functions
  * 9  Login_to_the_Bot
  * 
- *   BOT CODED BY: KuaterCraft#0062 | https://ferren.dcbot.ml.dcbot.ml
+ *   BOT RE-CODED BY: KuaterCraft#0062  | https://ferren.dcbot.ml
+ *   Original author: Tomato6966
  *********************************************************/
 
 

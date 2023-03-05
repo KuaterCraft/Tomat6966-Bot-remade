@@ -64,7 +64,7 @@
                 },
                 "field5": {
                     "title": "<:allright:1065137930391257181> Important Links",
-                    "value": "**[Invite Link]({invitelink})・[Support Server](https://discord.gg/4TeeFAdnuD)・[Website](https://ferren.dcbot.ml.dcbot.ml)**\n**[Invite the public one](https://discord.com/api/oauth2/authorize?client_id=734513783338434591&permissions=8&scope=bot)**"
+                    "value": "**[Invite Link]({invitelink})・[Support Server](https://discord.gg/4TeeFAdnuD)・[Website](https://ferren.dcbot.ml)**\n**[Invite the public one](https://discord.com/api/oauth2/authorize?client_id=734513783338434591&permissions=8&scope=bot)**"
                 },
                 "variable1": "`\\`\\`\\`\\nName: ${client.user.tag} [${client.user.id}]\\nBot Latency: ${Math.round(Date.now() - message.createdTimestamp)}ms\\nApi Latency: ${Math.round(client.ws.ping)}ms\\nRuntime: ${duration(client.uptime).join(\"︲\")}\\`\\`\\``",
                 "variable2": "`\\`\\`\\` ${e.message ? e.message : e.stack ? String(e.stack).substr(0, 2000) : String(e).substr(0, 2000)}\\`\\`\\``"
@@ -190,7 +190,7 @@
                 "variable23": "\"🦾 Custom Commands\"",
                 "variable24": "`🦾 **Custom Commands [${cuc[0].includes(\"NO\") ? 0 : items.length}]**`",
                 "variable25": "\" <:ferren:1065169582878359623> Bot Creator Company Advertisment\"",
-                "variablex_26": "` <:ferren:1065169582878359623> **__Bot Creator Information__**`", "variable26": "`>>> 💯 This Bot has been made by:\\n[**Ferren | KuaterCraft**](https://ferren.dcbot.ml.dcbot.ml)・[Discord](https://discord.com/invite/Ferren)<:Discord:787321652345438228> [Click here to order yourself a own one](https://discord.com/invite/Ferren)`",
+                "variablex_26": "` <:ferren:1065169582878359623> **__Bot Creator Information__**`", "variable26": "`>>> 💯 This Bot has been made by:\\n[**Ferren | KuaterCraft**](https://ferren.dcbot.ml)・[Discord](https://discord.com/invite/Ferren)<:Discord:787321652345438228> [Click here to order yourself a own one](https://discord.com/invite/Ferren)`",
                 "variable27": "`\\`\\`\\` ${e.message ? e.message : e.stack ? String(e.stack).substr(0, 2000) : String(e).substr(0, 2000)}\\`\\`\\``"
             },
             "invite": {
@@ -338,7 +338,7 @@
             },
             "support": {
                 "title": ":tickets: You need help? **JOIN OUR SUPPORT SERVER**",
-                "variable1": "`**[Invite Ferren](https://discord.com/oauth2/authorize?client_id=1064420967666954280&permissions=1513962695871&scope=bot%20applications.commands)  •  [WEBSITE](https://ferren.dcbot.ml.dcbot.ml)**`",
+                "variable1": "`**[Invite Ferren](https://discord.com/oauth2/authorize?client_id=1064420967666954280&permissions=1513962695871&scope=bot%20applications.commands)  •  [WEBSITE](https://ferren.dcbot.ml)**`",
                 "variable2": "-",
                 "variable3": "`\\`\\`\\` ${e.message ? e.message : e.stack ? String(e.stack).substr(0, 2000) : String(e).substr(0, 2000)}\\`\\`\\``"
             },
@@ -4627,7 +4627,7 @@
         "cooldown": "<:fcross:1064768376829919264> Please wait {time} more second(s) before reusing the `{commandname}` command.",
         "premium": {
             "title": "<:fcross:1064768376829919264> **This Command is Premium Only!** <a:nitro:833402717506502707>",
-            "description": "> *This means, you need to **pay** in Order to be able to use this Command!*\n\n> [Website](https://ferren.dcbot.ml.dcbot.ml) - [Pay through here](https://discord.gg/4TeeFAdnuD)"
+            "description": "> *This means, you need to **pay** in Order to be able to use this Command!*\n\n> [Website](https://ferren.dcbot.ml) - [Pay through here](https://discord.gg/4TeeFAdnuD)"
         },
         "permissions": {
             "title": "<:fcross:1064768376829919264> **You are not allowed to run this command!**",

@@ -90,7 +90,7 @@
   "bugs": {
     "url": "https://github.com/KuaterCraft#0062/Multipurpose-discord-bot/issues"
   },
-  "homepage": "https://ferren.dcbot.ml.dcbot.ml",
+  "homepage": "https://ferren.dcbot.ml",
   "devDependencies": {
     "node": "^16.13.2"
   }
