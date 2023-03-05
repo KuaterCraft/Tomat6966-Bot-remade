@@ -1,0 +1,40 @@
+{
+   "token": "MTA2NTI1NzAwODA2NTk1Nzg4OA.GEx3jt.cV-FVagAlxvSEMy5FiaW4xYtJF0WKZBOmjC6-0",
+   "prefix": ".",
+   "ownerIDS": [
+      "844535327892701205"
+   ],
+   "memer_api": "wCucaETQ0VF",
+   "status": {
+      "text": "KuaterCraft#0062",
+      "text2": "Ferren Hub | Oxygen | Hartix",
+      "type": "PLAYING"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "38.242.196.217",
+            "port": 3000,
+            "password": "FerrenMusic",
+            "retryDelay": 3000,
+            "identifier": "lavalink 1",
+            "secure":  false
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "053469ffeb3844079fab734ebf3090c2",
+      "clientID": "bf5ee2a72bae40ffadc71a47280e5ff9"
+   },
+   "settings": {
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "selfDeaf": true
+   }
+}
